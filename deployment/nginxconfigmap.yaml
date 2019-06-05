@@ -1,3 +1,4 @@
+# This configmap must be deployed to namespace that is controlled by webhook
 apiVersion: v1
 kind: ConfigMap
 metadata:
