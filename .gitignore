@@ -11,3 +11,5 @@
 *.out
 
 vendor/*
+*.sw?
+kube-mutating-webhook-tutorial
